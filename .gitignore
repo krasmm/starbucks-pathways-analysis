@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment / Dependency files
+.env
+*.env
+*.venv
+.venv/
+env/
+ENV/
+env.bak/
+venv/
+
+# Logs and debug files
+*.log
+*.out
+*.err
+*.pid
+
+# Data files (adjust based on your project)
+*.csv
+*.json
+*.parquet
+*.db
+*.sqlite3
+*.hdf5
+*.xls
+*.xlsx
+*.zip
+*.tar.gz
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
